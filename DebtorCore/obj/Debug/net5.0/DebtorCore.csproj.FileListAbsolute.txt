@@ -1,0 +1,12 @@
+C:\Users\Uzytkownik\source\repos\DebtorCore\bin\Debug\net5.0\DebtorCore.deps.json
+C:\Users\Uzytkownik\source\repos\DebtorCore\bin\Debug\net5.0\DebtorCore.dll
+C:\Users\Uzytkownik\source\repos\DebtorCore\bin\Debug\net5.0\ref\DebtorCore.dll
+C:\Users\Uzytkownik\source\repos\DebtorCore\bin\Debug\net5.0\DebtorCore.pdb
+C:\Users\Uzytkownik\source\repos\DebtorCore\obj\Debug\net5.0\DebtorCore.csproj.AssemblyReference.cache
+C:\Users\Uzytkownik\source\repos\DebtorCore\obj\Debug\net5.0\DebtorCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzytkownik\source\repos\DebtorCore\obj\Debug\net5.0\DebtorCore.AssemblyInfoInputs.cache
+C:\Users\Uzytkownik\source\repos\DebtorCore\obj\Debug\net5.0\DebtorCore.AssemblyInfo.cs
+C:\Users\Uzytkownik\source\repos\DebtorCore\obj\Debug\net5.0\DebtorCore.csproj.CoreCompileInputs.cache
+C:\Users\Uzytkownik\source\repos\DebtorCore\obj\Debug\net5.0\DebtorCore.dll
+C:\Users\Uzytkownik\source\repos\DebtorCore\obj\Debug\net5.0\ref\DebtorCore.dll
+C:\Users\Uzytkownik\source\repos\DebtorCore\obj\Debug\net5.0\DebtorCore.pdb
